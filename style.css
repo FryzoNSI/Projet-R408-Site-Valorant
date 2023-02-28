@@ -1,7 +1,7 @@
 html, body{
     padding: 0;
     margin: 0;
-     
+
 }
 
 ul{
@@ -48,14 +48,9 @@ header{
 
 
 
-
-
-
-
-
-
-
-
+section{
+  background-color: beige;
+}
 
 h2 {
     font-size: 1.5rem;
