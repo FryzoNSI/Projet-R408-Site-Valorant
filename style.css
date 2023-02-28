@@ -4,8 +4,14 @@ html, body{
     
 }
 
+ul{
+  display: flex;
+  flex-direction: row ;
+}
 li{
-    list-style-type: none;
+  margin: 15px;
+  display: flex;
+  list-style-type: none;
 }
 
 nav{
@@ -18,7 +24,12 @@ nav{
     color: white;
     background-color: rgb(31, 29, 29);
     z-index: 100;
-    
+}
+
+.nav_lien{
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
 }
 
 header{
@@ -31,6 +42,19 @@ header{
 #logo{
     height: 9vh;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 h2 {
