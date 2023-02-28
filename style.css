@@ -1,0 +1,28 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style-type: none;
+}
+
+nav{
+    border: 1px red solid;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background-color: rgb(42, 42, 56);
+}
+
+header{
+    border: 1px blue solid;
+    width: 100vw;
+    height: 100vh;
+}
+img{
+    height: 9vh;
+}
